@@ -1,5 +1,5 @@
 public class CustomerOrder {
-//Single Responsibilty principle
+//Single Responsibilty principle - 1st S of SOLID Principles
     private final Logger _log = new Logger();
     public static void main(String[] args){
         CustomerOrder co = new CustomerOrder();
